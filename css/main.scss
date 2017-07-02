@@ -257,6 +257,11 @@ span.input-group-addon {
     text-indent: 1px;
 }
 }
+button.btn.btn-default.upload {
+    padding: 9px 15px;
+    border: 1px solid #e48100;
+    
+}
 @media only screen and (max-width: 1000px) {
     .headerbg .col-md-9 {
     border-right: 0px;
