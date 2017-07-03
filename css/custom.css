@@ -68,26 +68,26 @@ body {
   .signupContainer .col-md-7 {
     padding: 50px 15px 50px 0px; }
     .signupContainer .col-md-7 h4 {
-      font-size: 26px;
+      font-size: 25px;
       font-weight: 500;
       color: #e48100; }
     .signupContainer .col-md-7 ul.list-unstyled {
       margin-bottom: 30px; }
     .signupContainer .col-md-7 li {
       font-size: 20px;
-      padding-left: 30px;
+      padding-left: 0px;
       color: #333;
-      font-weight: 500;
-      line-height: 40px; }
+      font-weight: 300;
+      padding-bottom: 20px; }
     .signupContainer .col-md-7 p {
       font-size: 16px;
       line-height: 24px;
       color: #333; }
   .signupContainer .col-md-5 {
     background: #e48100;
-    padding: 35px 25px; }
+    padding: 60px 25px 35px 25px; }
     .signupContainer .col-md-5 .form-group {
-      margin-bottom: 10px; }
+      margin-bottom: 30px; }
     .signupContainer .col-md-5 input.form-control {
       height: 40px;
       border: 0px;
@@ -109,7 +109,7 @@ body {
   color: #fff;
   padding: 50px 0px; }
   .ContentContainer h4 {
-    color: #e48100;
+    color: #fff;
     font-size: 30px;
     text-align: center;
     font-weight: 400;
@@ -221,9 +221,6 @@ button.btn.btn-default.upload {
 @media only screen and (max-width: 1000px) {
   .headerbg .col-md-9 {
     border-right: 0px; }
-
-  .signupContainer {
-    padding: 0px 15px; }
 
   .signupContainer .col-md-5 {
     margin: 0px -15px; } }
